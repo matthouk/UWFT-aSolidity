@@ -14,3 +14,18 @@ From the `Puppercoinsaledepoloyer`, we get:
 ![addresses](Images/addresses.png)
 
 ## Deployment and Use with MyCrypto.. 
+**TOKE2** created on Ropsten Testnet: 
+![TokenRopsten](Images/PupperCointoRopsten.png)
+**TOKE2** sale to Ropsten Testnet : 
+![TokenSaleRopsten](Images/PupperSaleDeployRopsten.png)
+
+### Send Money to Contract for Tokens 
+![TokenSaleRopsten](Images/FromMyCrypto.png)
+
+Add the tokens: 
+![AddToken](Images/addtoken.png)
+
+
+Check the balance: 
+![TokenBalance](Images/TokenBalance.png)
+
